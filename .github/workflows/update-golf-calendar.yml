@@ -1,5 +1,6 @@
 name: Update Golf Calendar
 
+
 on:
   schedule:
     # Run every hour at minute 0
