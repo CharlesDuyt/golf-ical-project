@@ -34,7 +34,7 @@ except ImportError:
 
 # Configuraties
 I_GOLF_URL = "https://www.i-golf.be"
-RESERVATIONS_URL = "https://www.i-golf.be/ords/f?p=165:119:714053694681593:::::"
+RESERVATIONS_URL = "https://www.i-golf.be/ords/f?p=165:119:708660524786404:::::"
 USERNAME = os.environ.get('I_GOLF_USERNAME')
 PASSWORD = os.environ.get('I_GOLF_PASSWORD')
 
