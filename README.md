@@ -1,6 +1,6 @@
 # 🏌️ Golf iCal Feed Generator
 
-Automatically sync your golf reservations from i-Golf.be to your calendar! This project uses GitHub Actions to scrape your golf reservations daily and provides them as an iCal feed that works with Apple Calendar, Google Calendar, and other calendar applications.
+Automatically sync  your golf reservations from i-Golf.be to your calendar! This project uses GitHub Actions to scrape your golf reservations daily and provides them as an iCal feed that works with Apple Calendar, Google Calendar, and other calendar applications.
 
 ## ✨ Features
 
